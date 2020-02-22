@@ -1,0 +1,11 @@
+2 adet dc motor arabanın hareketi için kullandım
+1 adet ultrasonic sensör engel kontrolü için
+1 step motor sensörü 360 derece çevirmek için
+2 adet 9v pil
+2 adet nrf uzaktan iletişim için
+arduino mega dc ve step okuma nrf haberleşmesi için veri ve sensör bilgileri için
+arduino uno uzaktan kumanda için 
+
+projemizde arabamız ile ileri sağ ve sol butonları kullanarak arabayı hareket ettirdik
+son bir durum butonu ile sensörümüzü 360 derece çevirerek alan bilgisini nrf yardımı ile
+matlab da çizdirdik
